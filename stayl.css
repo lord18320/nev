@@ -1,0 +1,87 @@
+body {
+    background-color: #f1f1f1;
+    color: #0f141e;
+    margin: 25px;
+}
+.аватар {
+    width: 200px;
+    border-radius: 28px ;
+    box-shadow: 4px 4px 14px #0000;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+    letter-spacing: 1px;
+    margin: 0 10px;
+    font-size: 24px;
+    font-family: 'Fredoka One', cursive;
+    transition: .3s ease-in-out;
+ }
+
+.info p {
+    color: #868986;
+    margin-bottom:10px ;
+    font-style: italic ;
+    font-weight: bold ;
+
+}
+.info {
+    display: flex;
+    margin-bottom:20px;
+    display: flex;
+
+    
+}
+    
+}
+.conteiner {
+    max-width: 750px;
+}
+.card {
+    padding:15px 20px;
+    margin-bottom:20px;
+    border-radius: 20px;
+}
+.bg-yellow {
+    background: #fff9dc;
+}
+.bg-green {
+    background: #e5ffe7;
+}
+.bg-red {
+    background: #ffe5e5;
+}
+}
+.contact {
+
+   
+}
+.info-text {
+margin-top: 20px; 
+padding:15px 15px 20px 20px;
+
+}
+.head {
+        width: 100%;
+        background-color: #ffe5e5;
+        padding:15px 20px;
+        margin-bottom:20px;
+        border-radius: 20px;
+        border-spacing: 20px;
+}
+th {
+    font-weight: normal;
+    color: #039;
+    padding: 10px 15px;
+  }
+  td {
+    color: #669;
+    border-top: 1px solid #e8edff;
+    padding: 10px 15px;
+  }
+  tr:hover td {
+    background: #e8edff;
+  }
+
